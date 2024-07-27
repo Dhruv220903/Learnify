@@ -1,0 +1,12 @@
+
+.me-auto a{
+    font-size: 15px;
+    color: white;
+    margin:10px;
+    text-decoration:none;
+}
+.me-auto :hover{
+    transition: 0.3s;
+    transform: scale(1.1);
+    color:pink;
+}
